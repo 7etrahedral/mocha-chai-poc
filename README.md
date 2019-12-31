@@ -14,7 +14,7 @@ This is POC repo for API testing using Mocha-Chai
 
 **4.** Access the folder
 
-**5.** Copy environtment
+**5.** Copy environtment and fill the TOKEN
 ```sh
 $ cp env.sample .env
 ```
